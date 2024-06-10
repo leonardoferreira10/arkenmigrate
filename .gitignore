@@ -1,0 +1,99 @@
+# Sistema operacional
+####################
+# Arquivos de sistema do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails do Linux
+*.directory
+
+# Arquivos de sistema do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Log de erro do Windows
+*.stackdump
+
+
+# IDEs e Editores de Texto
+##########################
+# Configurações do VSCode
+.vscode/
+*.code-workspace
+
+# Configurações do JetBrains (IntelliJ, PyCharm, etc.)
+.idea/
+*.iml
+
+# Configurações do Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Configurações do Eclipse
+.metadata/
+*.tmp
+*.bak
+*.swp
+
+# Outros arquivos de configuração de editores
+*.komodoproject
+*.komodotools
+*.esproj
+*.tmproj
+*.hproj
+
+# Backup de editores de texto
+*~
+
+
+# Ambientes de desenvolvimento
+##############################
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos de ambiente
+.env
+.env.development
+.env.production
+.env.test
+
+# Outros arquivos de configuração e lock files
+package-lock.json
+
+# TypeScript
+##############################
+# Diretórios de build
+dist/
+build/
+
+# Arquivos de configuração de TypeScript
+*.tsbuildinfo
+
+
+# Arquivos de logs e temporários
+###############################
+logs
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.swn
+*.seed
+
+# Arquivos de cache
+###################
+*.cache
+*.sqlite
+*.sqlite3
+*.db
+
+# Outros
+###################
+# Ignorar arquivos específicos do projeto
